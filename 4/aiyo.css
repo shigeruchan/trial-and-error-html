@@ -1,0 +1,25 @@
+
+<!-- class -->
+
+p.bastard {
+  color:white;
+  background-color: rgb(17, 229, 210);
+  border: 1px solid purple;
+  padding: 10px;
+  margin: 30px;
+  font-size:175% ;
+}
+
+<!-- id -->
+
+＃ice  {
+  color:red;
+  font-size: 200%;
+  background-color: blue;
+}
+
+pre {
+  border: 5px solid green; {{!-- ketebalan garis--}}
+  padding: 40px
+  margin: 50px;
+}
