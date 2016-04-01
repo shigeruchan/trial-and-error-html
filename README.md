@@ -2,7 +2,7 @@
 <pre>
 ————————WARNING BUG:注意一下bug——————————
 FOLDER 4: class and ID 
-<p id="ice"> <p class="bastard"> <span class="aaaaaa"></span>
+<*p id="ice"> <*p class="bastard"> <*span class="aaaaaa"><*/span>
 NOT WORKING
 </pre>
 
