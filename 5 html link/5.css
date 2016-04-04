@@ -1,0 +1,44 @@
+
+
+body {
+  background-color: green;
+}
+
+h1 {
+  color:rgb(246, 158, 0);
+}
+
+h2 {
+  color:rgb(246, 232, 0);
+}
+
+pre {
+	border: 3px solid red;
+	padding: 30px;
+	margin: 30px;
+}
+
+a {
+  font-size: 150%
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: gray;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
